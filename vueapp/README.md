@@ -1,6 +1,9 @@
 # vueapp
 
 > A Vue.js project
+> Node.js中文社区API接口获取数据，实现首页、注册、登录、主题页、详情页、收藏主题、评论、用户点赞等基本功能
+> 第三方组件库elementUI + 自有组件封装
+> Axios请求api接口
 
 ## Build Setup
 
